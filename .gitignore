@@ -1,0 +1,20 @@
+#Misc tools files
+readonly_tools_asset_info.bin
+tools_thumbnail_cache.bin
+tools_asset_info.bin
+panorama_debugger.cfg
+#Compiled Particles
+*.vpcf_c
+#Compiled Textures
+*.vtex_c
+*.vmat_c
+#Compiled Models
+*.vmdl_c
+*.vmesh_c
+#Compiled Panorama
+*.vxml_c
+*.vcss_c
+*.vjs_c
+#Compiled sounds
+*.vsndevts_c
+*.vsnd_c
